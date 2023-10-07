@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: Simple Circulation Notification using Whatsapp
+ * Plugin Name: OneSender
  * Plugin URI:
- * Description: Using API provided by WHACENTER (https://whacenter.com/). 
+ * Description: Using API provided OneSender. 
  * Version: 1.0.0
- * Author: Hendro Wicaksono
- * Author URI: https://github.com/hendrowicaksono
+ * Author: M Ali, Hendro Wicaksono
+ * Author URI: https://onesender.net, https://github.com/hendrowicaksono
  */
 
 defined('INDEX_AUTH') OR die('Direct access not allowed!');
